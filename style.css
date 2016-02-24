@@ -1,0 +1,10 @@
+body{
+    font-family: arial;
+}
+#listContainer #list-item{
+    display: inline;
+    padding-right: 10px;
+    line-height: 180%;
+    font-size: 20px;
+    font-weight: 100;
+}
